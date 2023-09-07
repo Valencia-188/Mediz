@@ -14,7 +14,8 @@ body {
         align-items: center;
         justify-content: space-between;
         height: 3px;
-        background: #fff;
+        background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bswhealth.com%2Fblog%2Fwhy-am-i-so-nervous-for-my-doctors-appointment&psig=AOvVaw2t0yqrwRs8NEosEZ5Wdn6H&ust=1694192103628000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLij3cf7mIEDFQAAAAAdAAAAABAD);
+        background-repeat: "no repeat";
         position: fixed;
         width: 100%;
         z-index: 100;
